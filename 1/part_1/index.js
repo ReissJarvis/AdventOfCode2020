@@ -1,3 +1,4 @@
+//woops cheated a bit her and made a json file
 const input = require("./input.json")
 
 
